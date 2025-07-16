@@ -21,7 +21,7 @@ With a final score of 95.96%, I was ranked 93/380 among external participants.
 - Random Forest Regressor, features importance
 - Cross validation method amd R2 metric
 
-## 5)	CONCLUSION
+## 4)	Conclusion
 Emerging tools, like satellite and climate data are now essential tools to analyze, monitor and assess our human impact over large areas. They are helping to evaluate the risks and develop appropriate strategies and solutions against hazards and vulnerabilities. <br />
 In this used case, we saw that lower-density urban areas are often cooler than high-density, and that vegetated/watered areas are cooler than urbanized areas. Also, more than identifying the causes, the model can predict the localization of the UHI and their scale, which can be useful for the city in case of heatwave.
 
